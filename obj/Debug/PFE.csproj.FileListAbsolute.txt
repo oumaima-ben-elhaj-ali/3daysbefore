@@ -1,0 +1,232 @@
+C:\Users\BMIDEV\source\repos\PFE\bin\PFE.dll.config
+C:\Users\BMIDEV\source\repos\PFE\bin\PFE.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\PFE.pdb
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\csc.exe
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\csc.exe.config
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\csc.rsp
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\csi.exe
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\csi.exe.config
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\csi.rsp
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.AppContext.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Console.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.IO.Compression.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.IO.Pipes.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Security.Claims.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.ValueTuple.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\vbc.exe
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\vbc.exe.config
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\vbc.rsp
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\VBCSCompiler.exe
+C:\Users\BMIDEV\source\repos\PFE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BMIDEV\source\repos\PFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BMIDEV\source\repos\PFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BMIDEV\source\repos\PFE\obj\Debug\PFE.csprojAssemblyReference.cache
+C:\Users\BMIDEV\source\repos\PFE\obj\Debug\PFE.csproj.CopyComplete
+C:\Users\BMIDEV\source\repos\PFE\obj\Debug\PFE.dll
+C:\Users\BMIDEV\source\repos\PFE\obj\Debug\PFE.pdb
+E:\pfe\PFE\bin\PFE.dll.config
+E:\pfe\PFE\bin\PFE.dll
+E:\pfe\PFE\bin\PFE.pdb
+E:\pfe\PFE\bin\roslyn\csc.exe
+E:\pfe\PFE\bin\roslyn\csc.exe.config
+E:\pfe\PFE\bin\roslyn\csc.rsp
+E:\pfe\PFE\bin\roslyn\csi.exe
+E:\pfe\PFE\bin\roslyn\csi.exe.config
+E:\pfe\PFE\bin\roslyn\csi.rsp
+E:\pfe\PFE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pfe\PFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pfe\PFE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pfe\PFE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pfe\PFE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\pfe\PFE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pfe\PFE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pfe\PFE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\pfe\PFE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\pfe\PFE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\pfe\PFE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pfe\PFE\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\pfe\PFE\bin\roslyn\System.AppContext.dll
+E:\pfe\PFE\bin\roslyn\System.Collections.Immutable.dll
+E:\pfe\PFE\bin\roslyn\System.Console.dll
+E:\pfe\PFE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\pfe\PFE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\pfe\PFE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\pfe\PFE\bin\roslyn\System.Globalization.Calendars.dll
+E:\pfe\PFE\bin\roslyn\System.IO.Compression.dll
+E:\pfe\PFE\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\pfe\PFE\bin\roslyn\System.IO.FileSystem.dll
+E:\pfe\PFE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\pfe\PFE\bin\roslyn\System.Net.Http.dll
+E:\pfe\PFE\bin\roslyn\System.Net.Sockets.dll
+E:\pfe\PFE\bin\roslyn\System.Reflection.Metadata.dll
+E:\pfe\PFE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\pfe\PFE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\pfe\PFE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\pfe\PFE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\pfe\PFE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\pfe\PFE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\pfe\PFE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\pfe\PFE\bin\roslyn\System.ValueTuple.dll
+E:\pfe\PFE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\pfe\PFE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\pfe\PFE\bin\roslyn\System.Xml.XPath.dll
+E:\pfe\PFE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\pfe\PFE\bin\roslyn\vbc.exe
+E:\pfe\PFE\bin\roslyn\vbc.exe.config
+E:\pfe\PFE\bin\roslyn\vbc.rsp
+E:\pfe\PFE\bin\roslyn\VBCSCompiler.exe
+E:\pfe\PFE\bin\roslyn\VBCSCompiler.exe.config
+E:\pfe\PFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pfe\PFE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pfe\PFE\obj\Debug\PFE.csproj.CopyComplete
+E:\pfe\PFE\obj\Debug\PFE.dll
+E:\pfe\PFE\obj\Debug\PFE.pdb
+E:\pfe\PFE\obj\Debug\PFE.csprojAssemblyReference.cache
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\PFE.dll.config
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\PFE.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\PFE.pdb
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\csc.exe
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\csc.exe.config
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\csc.rsp
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\csi.exe
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\csi.exe.config
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\csi.rsp
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.Managed.Core.targets
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.AppContext.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Collections.Immutable.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Console.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Globalization.Calendars.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.IO.Compression.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.IO.FileSystem.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Net.Http.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Net.Sockets.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Reflection.Metadata.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.ValueTuple.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Xml.XmlDocument.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Xml.XPath.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\vbc.exe
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\vbc.exe.config
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\vbc.rsp
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\VBCSCompiler.exe
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\roslyn\VBCSCompiler.exe.config
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pfe\dynamique v10.0.1 ajouterEQ\obj\Debug\PFE.csprojAssemblyReference.cache
+E:\pfe\dynamique v10.0.1 ajouterEQ\obj\Debug\PFE.csproj.CopyComplete
+E:\pfe\dynamique v10.0.1 ajouterEQ\obj\Debug\PFE.dll
+E:\pfe\dynamique v10.0.1 ajouterEQ\obj\Debug\PFE.pdb
+E:\pfe\ProjetFinEtude\bin\PFE.dll.config
+E:\pfe\ProjetFinEtude\bin\PFE.dll
+E:\pfe\ProjetFinEtude\bin\PFE.pdb
+E:\pfe\ProjetFinEtude\bin\roslyn\csc.exe
+E:\pfe\ProjetFinEtude\bin\roslyn\csc.exe.config
+E:\pfe\ProjetFinEtude\bin\roslyn\csc.rsp
+E:\pfe\ProjetFinEtude\bin\roslyn\csi.exe
+E:\pfe\ProjetFinEtude\bin\roslyn\csi.exe.config
+E:\pfe\ProjetFinEtude\bin\roslyn\csi.rsp
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.Managed.Core.targets
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pfe\ProjetFinEtude\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.AppContext.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Collections.Immutable.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Console.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Globalization.Calendars.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.IO.Compression.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.IO.FileSystem.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Net.Http.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Net.Sockets.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Reflection.Metadata.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.ValueTuple.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Xml.XmlDocument.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Xml.XPath.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\pfe\ProjetFinEtude\bin\roslyn\vbc.exe
+E:\pfe\ProjetFinEtude\bin\roslyn\vbc.exe.config
+E:\pfe\ProjetFinEtude\bin\roslyn\vbc.rsp
+E:\pfe\ProjetFinEtude\bin\roslyn\VBCSCompiler.exe
+E:\pfe\ProjetFinEtude\bin\roslyn\VBCSCompiler.exe.config
+E:\pfe\ProjetFinEtude\bin\itextsharp.dll
+E:\pfe\ProjetFinEtude\bin\itextsharp.xmlworker.dll
+E:\pfe\ProjetFinEtude\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pfe\ProjetFinEtude\bin\itextsharp.xml
+E:\pfe\ProjetFinEtude\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pfe\ProjetFinEtude\obj\Debug\PFE.csproj.CopyComplete
+E:\pfe\ProjetFinEtude\obj\Debug\PFE.dll
+E:\pfe\ProjetFinEtude\obj\Debug\PFE.pdb
+E:\pfe\ProjetFinEtude\obj\Debug\PFE.csprojAssemblyReference.cache
